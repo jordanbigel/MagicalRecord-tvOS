@@ -1,5 +1,5 @@
 # MagicalRecord-tvOS
-A hacked version of MagicalRecord 3.0 for iOS 
+A hacked version of MagicalRecord 3.0 for tvOS 
 
 Simply drag this into your project and import the header like this: 
 
